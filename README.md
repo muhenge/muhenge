@@ -1,2 +1,2 @@
-# Warm welcome :blush:
+# Welcome :blush:
 ## Feel free to explore my projects :thumbsup:
