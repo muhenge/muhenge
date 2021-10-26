@@ -11,7 +11,7 @@ I Spend most of time coding.
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&labelColor=black&logo=ruby&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
-### Primary Back-end framework
+### Back-end framework I used
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
