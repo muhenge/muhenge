@@ -2,8 +2,6 @@
 
 > I am a software developer :grin:
 
-I Spend most of time coding.
-
 ## Top tech
 
 <!-- TODO: Make technologies links takes you to repositories -->
