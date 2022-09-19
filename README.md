@@ -1,9 +1,8 @@
-
 ## Hey, I am Herve Ngenzi
 
 > I am a Web developer
 
-## My tech stack
+## My tech
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -11,7 +10,7 @@
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&labelColor=black&logo=ruby&logoColor=red)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](#)
 
-### Back-end tools.
+### Back-end frameworks.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
