@@ -30,4 +30,5 @@
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=muhenge&count_private=true&theme=tokyonight)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=muhenge&count_private=true&theme=tokyonight&show_icons=true)
+
