@@ -24,10 +24,6 @@
 
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### OS
-
-[![Linux](https://camo.githubusercontent.com/137ec190ec7cf120cd4184f04474d452f6d475575dfc7fdf79fc1ed51022857c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e757826636f6c6f723d323232323232266c6f676f3d4c696e7578266c6f676f436f6c6f723d464343363234266c6162656c3d)](#) [![](https://camo.githubusercontent.com/1814dfdb62c9a3366a9946083ac0f3ed32aad98e665b287769332252d945f2f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5562756e747526636f6c6f723d453935343230266c6f676f3d5562756e7475266c6f676f436f6c6f723d464646464646266c6162656c3d)](#)
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=muhenge&count_private=true&theme=tokyonight&show_icons=true)
