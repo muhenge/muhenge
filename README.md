@@ -1,7 +1,5 @@
 ## Hey, I am Herve Ngenzi
 
-> I am a Web developer
-
 ## My tech
 
 <!-- TODO: Make technologies links takes you to repositories -->
