@@ -21,3 +21,5 @@
 ### Databases
 
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+<center><figure><embed src="https://wakatime.com/share/@2ab98816-c475-4033-930d-ef3445183d01/eeda6081-6f26-4e82-9ef2-87db4fc8bae4.svg"></embed></figure></center>
