@@ -23,3 +23,5 @@
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22412%26project%3D%26in=0)](https://codetime.dev)
+
+<figure><embed src="https://wakatime.com/share/@2ab98816-c475-4033-930d-ef3445183d01/9cc1ef94-7e5a-4c37-827f-fec6e632af50.svg"></embed></figure>
