@@ -1,4 +1,4 @@
-# Hi there, I'm Muhenge! 👋
+# Hi, I'm Ngenzi! 👋
 
 ## Languages
 
